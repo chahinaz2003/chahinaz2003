@@ -28,7 +28,7 @@ I'm a passionate **Frontend Developer** with a love for building interactive and
 - Collaborate on open-source projects and contribute to the dev community.
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/chahinez-bounoua-1095a4331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) (Add your actual LinkedIn profile)
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/chahinez-bounoua-1095a4331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 - [Email](c.bounoua@esi-sba.dz)
 
 ### ⚡ Fun Fact:
